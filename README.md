@@ -15,7 +15,7 @@
     <g-emoji class="g-emoji" alias="hammer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Mobile app developer.
   </li>
 
-  <li><animated-image data-catalyst="" style="width: 24px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="20" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <li><animated-image data-catalyst="" style="width: 24px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.giphy.com/13HBDT4QSTpveU.webp" data-target="animated-image.originalLink"><img src="https://i.giphy.com/13HBDT4QSTpveU.webp" height="20" data-canonical-src="https://i.giphy.com/JIX9t2j0ZTN9S.webp" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 </animated-image><a href="https://www.root-me.org/ninjawill543">Offensive security enthusiast.</a></li>
 
 </ul>
@@ -24,8 +24,8 @@
   
   
   <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://ubuntu.com/"><img src="https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423825f113ea4ae639f4dcfd0392d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.kali.org/"><img src="https://camo.githubusercontent.com/5ff2a4fdceeaa3087a5925c470a33d117d14c6c9cef33bd7fbc4a147df8ba4ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b616c692d3236384245453f7374796c653d666f722d7468652d6261646765266c6f676f3d6b616c696c696e7578266c6f676f436f6c6f723d7768697465" alt="Kali" data-canonical-src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" data-canonical-src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://tails.boum.org/"><img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" alt="Kali" data-canonical-src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" style="max-width: 100%;"></a>
 
 </p>
