@@ -18,6 +18,8 @@
   <li><animated-image data-catalyst="" style="width: 24px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.giphy.com/13HBDT4QSTpveU.webp" data-target="animated-image.originalLink"><img src="https://i.giphy.com/13HBDT4QSTpveU.webp" height="20" data-canonical-src="https://i.giphy.com/JIX9t2j0ZTN9S.webp" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 </animated-image><a href="https://www.root-me.org/ninjawill543">Offensive security enthusiast.</a></li>
 
+![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ninjawill543&gstats=show)
+
 </ul>
 
 <h3 dir="auto"><a id="user-content-computer-sistemas-operativos" class="anchor" aria-hidden="true" href="#computer-sistemas-operativos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating systems:</h3>
@@ -44,5 +46,6 @@
 ## My stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjawill543&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
+
   
 
