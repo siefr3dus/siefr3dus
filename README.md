@@ -18,7 +18,6 @@
   <li><animated-image data-catalyst="" style="width: 24px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.giphy.com/13HBDT4QSTpveU.webp" data-target="animated-image.originalLink"><img src="https://i.giphy.com/13HBDT4QSTpveU.webp" height="20" data-canonical-src="https://i.giphy.com/JIX9t2j0ZTN9S.webp" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 </animated-image><a href="https://www.root-me.org/ninjawill543">Offensive security enthusiast.</a></li>
 
-![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ninjawill543&gstats=show)
 
 </ul>
 
@@ -44,6 +43,7 @@
 
 
 ## My stats:
+![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ninjawill543&gstats=show)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjawill543&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 
