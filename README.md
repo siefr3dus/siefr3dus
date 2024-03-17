@@ -9,7 +9,8 @@
 <ul>
   <li>👨‍🎓 Computer science student.</li>
   <li>👨‍💻 Mobile app developer.</li>
-  <li>💻 <a href="https://www.root-me.org/ninjawill543">Offensive security enthusiast.</a></li>
+  <li><animated-image style="width: 24px;"><a href="https://i.giphy.com/13HBDT4QSTpveU.webp" ><img src="https://i.giphy.com/13HBDT4QSTpveU.webp" height="20" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+</animated-image><a href="https://www.root-me.org/ninjawill543">Offensive security enthusiast.</a></li>
 </ul>
 
 <h3>Operating systems:</h3>
