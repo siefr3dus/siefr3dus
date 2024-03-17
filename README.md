@@ -35,8 +35,7 @@
   <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim"></a>
 </p>
 
-<h3>My stats:</h3>
+<h3>Root Me stats:</h3>
 
 ![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ninjawill543&gstats=show)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjawill543&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
