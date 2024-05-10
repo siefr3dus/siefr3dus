@@ -13,7 +13,7 @@
 </animated-image><a href="https://www.root-me.org/ninjawill543">Offensive security enthusiast.</a></li>
 </ul>
 
-<h3>Operating systems:</h3>
+<h3>Favourite Distros:</h3>
 
 <p>
   <a href="https://rockylinux.org/"><img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=FFFFFF" alt="Rocky"></a>
