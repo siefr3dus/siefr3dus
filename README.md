@@ -5,10 +5,10 @@
 <h2>Hi there 👋</h2>
 I'm Lucas, also known as ninjawill543. I'm an information security student and a dedicated security researcher. 
 <br>
-
-<h3>🔍 Find more about me <a href="https://lucashanson.fr/about">here</a>.</h3> 
-
-📚 Read below to see what I'm currently working on and learning.
+<br>
+<h3>🔍 Find more about me <a href="https://lucashanson.fr">here</a>.</h3> 
+<br>
+<h3>📚 Read below to see what I'm currently working on and learning.</h3>
 
 <ul>
   <li>👨‍🎓 Computer science student.</li>
