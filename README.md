@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" width="600">
 </p>
 
-<h3>Hi there 👋</h3>
+<h2>Hi there 👋</h2>
 I'm Lucas, also known as ninjawill543. I'm an information security student and a dedicated security researcher. 
 <br>
 
