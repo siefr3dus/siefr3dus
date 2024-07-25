@@ -36,5 +36,6 @@ I'm Lucas, also known as ninjawill543. I'm an information security student and a
 </p>
 <br>
 <h3>My Root Me Stats</h3>
+
 ![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ninjawill543&gstats=show)
 
