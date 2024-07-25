@@ -2,9 +2,13 @@
   <img src="https://media.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" width="600">
 </p>
 
-<h1 align="center">Hi 👋, I'm Lucas (Aka. ninjawill543)</h1>
+<h3>Hi there 👋</h3>h3>
+I'm Lucas, also known as ninjawill543. I'm an information security student and a dedicated security researcher. 
+<br>
 
-<h3>Who am I:</h3>
+<h3>🔍 Find more about me <a href="https://lucashanson.fr/about">here</a>.</h3> 
+
+📚 Read below to see what I'm currently working on and learning.
 
 <ul>
   <li>👨‍🎓 Computer science student.</li>
