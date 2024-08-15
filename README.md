@@ -3,7 +3,7 @@
 </p>
 
 <h2>Hi there 👋</h2>
-I'm Lucas, also known as ninjawill543. I'm an information security student and a dedicated security researcher. 
+I'm Lucas, also known as siefr3dus. I'm an information security student and a dedicated security researcher. 
 <br>
 <br>
 <h3>🔍 Find more about me <a href="https://lucashanson.fr">here</a></h3> 
@@ -37,5 +37,5 @@ I'm Lucas, also known as ninjawill543. I'm an information security student and a
 <br>
 <h3>My Root Me Stats:</h3>
 
-![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ninjawill543&gstats=show)
+![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=siefr3dus&gstats=show)
 
