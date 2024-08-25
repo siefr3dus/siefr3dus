@@ -11,7 +11,6 @@ I'm Lucas, also known as siefr3dus. I'm an information security student and a de
 <h3>📚 Currently working on:</h3>
 
 -  Java Code Review
--  Mobile Penetration Testing
 -  Web Vulnerability Research
   
 <br>
